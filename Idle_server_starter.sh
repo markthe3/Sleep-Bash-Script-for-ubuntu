@@ -1,5 +1,5 @@
 #!/bin/bash
-
+    
 # Set the path to your monitoring script
 monitoring_script="/path/to/idle_server.sh"
 
