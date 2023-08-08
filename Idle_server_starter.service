@@ -1,0 +1,9 @@
+[Unit]
+Description=Startup script for idle server sleep
+
+[Service]
+Type=oneshot
+ExecStart=/path/to/Idle_server_starter.sh
+
+[Install]
+WantedBy=multi-user.target
