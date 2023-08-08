@@ -10,6 +10,7 @@ After that i make it executable:
 chmod +x idle_server.sh
 
 To run the script in the background every time i launch the machine, i use a startup script that runs the monitoring script as a background process during boot.
+
 nano idle_server_starter.sh
 then i made it executable:
 chmod +x idle_server_starter.sh
